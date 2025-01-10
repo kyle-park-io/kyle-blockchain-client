@@ -1,0 +1,11 @@
+{
+  "network": "Polygon Amoy",
+  "native": "POL",
+  "explorer": "https://amoy.polygonscan.com",
+  "address": "0xb98fd3bb98451a9f88e784232db27b626eedd3d7",
+  "deployer": "0xC126f0c68d5A75A86D98c0283fA424C8DFe78BD5",
+  "blockNumber": "16669821",
+  "blockHash": "0x88b34f0ae0d60388c553b5b0dda27c8a2ccb88ca533dff4164622e9f8625ff37",
+  "transactionHash": "0x5e5ecb7f8a472062e12523db42a8501b049ee523700f72e74d455c54b500853e",
+  "timestamp": "1736475751"
+}
