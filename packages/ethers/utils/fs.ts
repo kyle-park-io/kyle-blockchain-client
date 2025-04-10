@@ -30,7 +30,6 @@ export default class FileReader {
       return await Promise.resolve(contractAddress.toString());
     } catch (err) {
       console.log(err);
-      // this.logger.error('(RIGO) get rigo contractAddress error', err);
       throw err;
     }
   }
